@@ -1,0 +1,55 @@
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\bin\Debug\Stock Control.exe.config
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\bin\Debug\Stock Control.exe
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\bin\Debug\Stock Control.pdb
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\bin\Debug\Stock Control.xml
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\bin\Debug\Guna.UI2.dll
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock Control.vbprojResolveAssemblyReference.cache
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock_Control.Form1.resources
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock_Control.Resources.resources
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock Control.vbproj.GenerateResource.Cache
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock Control.exe
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock Control.xml
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock Control.pdb
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\bin\Debug\MySql.Data.DLL
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock_Control.mainfrm.resources
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock_Control.manageuserfrm.resources
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock_Control.managecustomer.resources
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\bin\Debug\MessagingToolkit.Barcode.dll
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock_Control.manageProduct.resources
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock_Control.groupfrm.resources
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock_Control.uomfrm.resources
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock_Control.managestock.resources
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock_Control.stockadjustmentfrm.resources
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock_Control.inboundfm.resources
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock_Control.outboundfrm.resources
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock_Control.searchfrm.resources
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock_Control.managestockReport.resources
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock_Control.frmoutbound.resources
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock_Control.inboundsearchfrm.resources
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock_Control.inboundReport.resources
+C:\Users\Dinesh\Desktop\Stock Control\Stock Control\obj\Debug\Stock_Control.Dashboardfrm.resources
+D:\ESTUDIOS\Proyectos Visual Basic\Stock Control\Stock Control\obj\Debug\Stock Control.vbproj.AssemblyReference.cache
+D:\ESTUDIOS\Proyectos Visual Basic\Stock Control\Stock Control\obj\Debug\Stock_Control.Dashboardfrm.resources
+D:\ESTUDIOS\Proyectos Visual Basic\Stock Control\Stock Control\obj\Debug\Stock_Control.Form1.resources
+D:\ESTUDIOS\Proyectos Visual Basic\Stock Control\Stock Control\obj\Debug\Stock_Control.frmoutbound.resources
+D:\ESTUDIOS\Proyectos Visual Basic\Stock Control\Stock Control\obj\Debug\Stock_Control.inboundfm.resources
+D:\ESTUDIOS\Proyectos Visual Basic\Stock Control\Stock Control\obj\Debug\Stock_Control.inboundReport.resources
+D:\ESTUDIOS\Proyectos Visual Basic\Stock Control\Stock Control\obj\Debug\Stock_Control.inboundsearchfrm.resources
+D:\ESTUDIOS\Proyectos Visual Basic\Stock Control\Stock Control\obj\Debug\Stock_Control.mainfrm.resources
+D:\ESTUDIOS\Proyectos Visual Basic\Stock Control\Stock Control\obj\Debug\Stock_Control.managecustomer.resources
+D:\ESTUDIOS\Proyectos Visual Basic\Stock Control\Stock Control\obj\Debug\Stock_Control.manageProduct.resources
+D:\ESTUDIOS\Proyectos Visual Basic\Stock Control\Stock Control\obj\Debug\Stock_Control.groupfrm.resources
+D:\ESTUDIOS\Proyectos Visual Basic\Stock Control\Stock Control\obj\Debug\Stock_Control.uomfrm.resources
+D:\ESTUDIOS\Proyectos Visual Basic\Stock Control\Stock Control\obj\Debug\Stock_Control.managestock.resources
+D:\ESTUDIOS\Proyectos Visual Basic\Stock Control\Stock Control\obj\Debug\Stock_Control.managestockReport.resources
+D:\ESTUDIOS\Proyectos Visual Basic\Stock Control\Stock Control\obj\Debug\Stock_Control.stockadjustmentfrm.resources
+D:\ESTUDIOS\Proyectos Visual Basic\Stock Control\Stock Control\obj\Debug\Stock_Control.manageuserfrm.resources
+D:\ESTUDIOS\Proyectos Visual Basic\Stock Control\Stock Control\obj\Debug\Stock_Control.Resources.resources
+D:\ESTUDIOS\Proyectos Visual Basic\Stock Control\Stock Control\obj\Debug\Stock_Control.outboundfrm.resources
+D:\ESTUDIOS\Proyectos Visual Basic\Stock Control\Stock Control\obj\Debug\Stock_Control.searchfrm.resources
+D:\ESTUDIOS\Proyectos Visual Basic\Stock Control\Stock Control\obj\Debug\Stock Control.vbproj.GenerateResource.cache
+D:\ESTUDIOS\Proyectos Visual Basic\Stock Control\Stock Control\obj\Debug\Stock Control.vbproj.CoreCompileInputs.cache
+D:\ESTUDIOS\Proyectos Visual Basic\Stock Control\Stock Control\obj\Debug\Stock Control.exe
+D:\ESTUDIOS\Proyectos Visual Basic\Stock Control\Stock Control\obj\Debug\Stock Control.xml
+D:\ESTUDIOS\Proyectos Visual Basic\Stock Control\Stock Control\obj\Debug\Stock Control.pdb

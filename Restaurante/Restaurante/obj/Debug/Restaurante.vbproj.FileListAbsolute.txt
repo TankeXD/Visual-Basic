@@ -1,0 +1,11 @@
+D:\ESTUDIOS\Proyectos Visual Basic\Restaurante\Restaurante\bin\Debug\Restaurante.exe.config
+D:\ESTUDIOS\Proyectos Visual Basic\Restaurante\Restaurante\bin\Debug\Restaurante.exe
+D:\ESTUDIOS\Proyectos Visual Basic\Restaurante\Restaurante\bin\Debug\Restaurante.pdb
+D:\ESTUDIOS\Proyectos Visual Basic\Restaurante\Restaurante\bin\Debug\Restaurante.xml
+D:\ESTUDIOS\Proyectos Visual Basic\Restaurante\Restaurante\obj\Debug\Restaurante.vbproj.AssemblyReference.cache
+D:\ESTUDIOS\Proyectos Visual Basic\Restaurante\Restaurante\obj\Debug\Restaurante.Resources.resources
+D:\ESTUDIOS\Proyectos Visual Basic\Restaurante\Restaurante\obj\Debug\Restaurante.vbproj.GenerateResource.cache
+D:\ESTUDIOS\Proyectos Visual Basic\Restaurante\Restaurante\obj\Debug\Restaurante.vbproj.CoreCompileInputs.cache
+D:\ESTUDIOS\Proyectos Visual Basic\Restaurante\Restaurante\obj\Debug\Restaurante.exe
+D:\ESTUDIOS\Proyectos Visual Basic\Restaurante\Restaurante\obj\Debug\Restaurante.xml
+D:\ESTUDIOS\Proyectos Visual Basic\Restaurante\Restaurante\obj\Debug\Restaurante.pdb

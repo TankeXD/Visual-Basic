@@ -1,0 +1,11 @@
+D:\ESTUDIOS\Proyectos Visual Basic\Conversor de monedas\Conversor de monedas\bin\Debug\Conversor de monedas.exe.config
+D:\ESTUDIOS\Proyectos Visual Basic\Conversor de monedas\Conversor de monedas\bin\Debug\Conversor de monedas.exe
+D:\ESTUDIOS\Proyectos Visual Basic\Conversor de monedas\Conversor de monedas\bin\Debug\Conversor de monedas.pdb
+D:\ESTUDIOS\Proyectos Visual Basic\Conversor de monedas\Conversor de monedas\bin\Debug\Conversor de monedas.xml
+D:\ESTUDIOS\Proyectos Visual Basic\Conversor de monedas\Conversor de monedas\obj\Debug\Conversor de monedas.vbproj.AssemblyReference.cache
+D:\ESTUDIOS\Proyectos Visual Basic\Conversor de monedas\Conversor de monedas\obj\Debug\Conversor_de_monedas.Resources.resources
+D:\ESTUDIOS\Proyectos Visual Basic\Conversor de monedas\Conversor de monedas\obj\Debug\Conversor de monedas.vbproj.GenerateResource.cache
+D:\ESTUDIOS\Proyectos Visual Basic\Conversor de monedas\Conversor de monedas\obj\Debug\Conversor de monedas.vbproj.CoreCompileInputs.cache
+D:\ESTUDIOS\Proyectos Visual Basic\Conversor de monedas\Conversor de monedas\obj\Debug\Conversor de monedas.exe
+D:\ESTUDIOS\Proyectos Visual Basic\Conversor de monedas\Conversor de monedas\obj\Debug\Conversor de monedas.xml
+D:\ESTUDIOS\Proyectos Visual Basic\Conversor de monedas\Conversor de monedas\obj\Debug\Conversor de monedas.pdb

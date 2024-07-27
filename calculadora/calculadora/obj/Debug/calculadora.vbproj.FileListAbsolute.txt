@@ -1,0 +1,22 @@
+C:\Users\alumnosls\Desktop\clase .net\calculadora\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\alumnosls\Desktop\clase .net\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Users\alumnosls\Desktop\clase .net\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\alumnosls\Desktop\clase .net\calculadora\calculadora\bin\Debug\calculadora.xml
+C:\Users\alumnosls\Desktop\clase .net\calculadora\calculadora\obj\Debug\calculadora.vbproj.AssemblyReference.cache
+C:\Users\alumnosls\Desktop\clase .net\calculadora\calculadora\obj\Debug\calculadora.Resources.resources
+C:\Users\alumnosls\Desktop\clase .net\calculadora\calculadora\obj\Debug\calculadora.vbproj.GenerateResource.cache
+C:\Users\alumnosls\Desktop\clase .net\calculadora\calculadora\obj\Debug\calculadora.vbproj.CoreCompileInputs.cache
+C:\Users\alumnosls\Desktop\clase .net\calculadora\calculadora\obj\Debug\calculadora.exe
+C:\Users\alumnosls\Desktop\clase .net\calculadora\calculadora\obj\Debug\calculadora.xml
+C:\Users\alumnosls\Desktop\clase .net\calculadora\calculadora\obj\Debug\calculadora.pdb
+E:\Proyectos de Visual Basic\calculadora\calculadora\bin\Debug\calculadora.exe.config
+E:\Proyectos de Visual Basic\calculadora\calculadora\bin\Debug\calculadora.exe
+E:\Proyectos de Visual Basic\calculadora\calculadora\bin\Debug\calculadora.pdb
+E:\Proyectos de Visual Basic\calculadora\calculadora\bin\Debug\calculadora.xml
+E:\Proyectos de Visual Basic\calculadora\calculadora\obj\Debug\calculadora.vbproj.AssemblyReference.cache
+E:\Proyectos de Visual Basic\calculadora\calculadora\obj\Debug\calculadora.Resources.resources
+E:\Proyectos de Visual Basic\calculadora\calculadora\obj\Debug\calculadora.vbproj.GenerateResource.cache
+E:\Proyectos de Visual Basic\calculadora\calculadora\obj\Debug\calculadora.vbproj.CoreCompileInputs.cache
+E:\Proyectos de Visual Basic\calculadora\calculadora\obj\Debug\calculadora.exe
+E:\Proyectos de Visual Basic\calculadora\calculadora\obj\Debug\calculadora.xml
+E:\Proyectos de Visual Basic\calculadora\calculadora\obj\Debug\calculadora.pdb
